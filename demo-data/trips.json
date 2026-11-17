@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "TRIP-GOA-001",
+    "userId": "demo-traveler-01",
+    "origin": "Chennai (MAA)",
+    "destination": "Goa (GOI)",
+    "startDate": "2024-11-20",
+    "endDate": "2024-11-22",
+    "durationDays": 3,
+    "travelers": 2,
+    "budget": 30000,
+    "totalCost": 27500,
+    "status": "CONFIRMED",
+    "bookingId": "BK-VP-2024-9428",
+    "interests": ["Beaches", "Affordable Hotels", "Morning Flights"]
+  },
+  {
+    "_id": "TRIP-MAN-002",
+    "userId": "demo-traveler-01",
+    "origin": "Delhi (DEL)",
+    "destination": "Manali",
+    "startDate": "2024-12-01",
+    "endDate": "2024-12-05",
+    "durationDays": 5,
+    "travelers": 4,
+    "budget": 80000,
+    "totalCost": 65000,
+    "status": "PLANNING",
+    "bookingId": "BK-VP-2024-3119",
+    "interests": ["Mountains", "Adventure", "Snow"]
+  },
+  {
+    "_id": "TRIP-JAI-003",
+    "userId": "demo-traveler-01",
+    "origin": "Mumbai (BOM)",
+    "destination": "Jaipur",
+    "startDate": "2024-10-10",
+    "endDate": "2024-10-12",
+    "durationDays": 3,
+    "travelers": 3,
+    "budget": 50000,
+    "totalCost": 42000,
+    "status": "COMPLETED",
+    "bookingId": "BK-VP-2024-1082",
+    "interests": ["Forts", "Palaces", "Shopping"]
+  }
+]

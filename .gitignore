@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+target/
+**/target/
+*.class
+apache-maven-*/
+**/apache-maven-*/
+
+# Environment and Secrets
+.env
+.env.local
+*.log
+
+# IDE & OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build Outputs
+dist/
+dist-ssr/
+*.zip
+
+# Temporary files
+scratch/
+tmp/
